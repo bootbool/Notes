@@ -7,6 +7,7 @@ https://events.linuxfoundation.org/lsfmmbpf/
 http://chinacid.org/
 https://github.com/chinacid
 
+https://github.com/ChinaLinuxKernel
 
 
 OS2ATC 开源操作系统年度技术会议 https://os2atc.cn/
